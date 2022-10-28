@@ -1,0 +1,12 @@
+.banner{
+    background-color: chartreuse;
+    width: 100%;
+    height: 72px;
+    margin-bottom: 20px;
+}
+.banner-text{
+    left: 45%;
+    top: 2%;
+    position: absolute;
+    color: white;
+}
